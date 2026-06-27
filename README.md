@@ -15,4 +15,10 @@
 ---
 [![](https://komarev.com/ghpvc/?username=ambativenkateshreddy&icon=0&color=0)](https://visitcount.itsvg.in)
 
+# 🔢 LeetCode Stats:
+![LeetCode Stats](https://leetcard.jacoblin.cool/ambati01?theme=dark&font=Nunito&ext=heatmap)
+
+---
+[![](https://komavin.com/ghpvc/?username=ambativenkateshreddy&icon=0&color=0)](https://visitcount.itsvg.in)
+
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
